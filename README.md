@@ -1,2 +1,1 @@
-# manifest
-1)if 'these are my best potential' 2)or else ' until I do changes' 3)go to (1)
+This is a movie ticket booking Website code which includes the sum of 3 languages Html, css and javascripts for both fornt and backend, hope it helps ;)
